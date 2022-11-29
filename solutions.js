@@ -13,7 +13,7 @@
  * isFalse
  * not
  * addOne
- * isEven
+ * isEvengit
  * isIdentical
  * isEqual
  * or
